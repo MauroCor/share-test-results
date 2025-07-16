@@ -1,0 +1,15 @@
+{
+  "fields": {
+    "project": {
+      "id": "",
+      "key": "",
+      "name": ""
+    },
+    "summary": "Automation test execution",
+    "issuetype": {
+      "id": ""
+    }
+  },
+  "id": "",
+  "key": ""
+}
